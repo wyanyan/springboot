@@ -11,6 +11,7 @@ public class Test {
         }
         int  modifiers = reflectClass.getModifiers();
         System.out.println(modifiers);
+         System.out.println("test");
         System.out.println(reflectClass.getSuperclass());
 }
 public void test(){
