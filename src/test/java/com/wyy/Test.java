@@ -15,6 +15,7 @@ public class Test {
         System.out.println(reflectClass.getSuperclass());
 }
     public void test(){
+        int i=0;
         System.out.print("tst");
     }
 
