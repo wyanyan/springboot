@@ -13,4 +13,7 @@ public class Test {
         System.out.println(modifiers);
         System.out.println(reflectClass.getSuperclass());
 }
+    public void test()"{
+        System.out.print("teset");
+}
 }
