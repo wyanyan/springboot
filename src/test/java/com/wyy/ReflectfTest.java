@@ -31,6 +31,7 @@ public class ReflectfTest {
         this.num1 = num1;
     }
     public void test(){
-        System.out.print("test");
+        System.out.println("test");
     }
+
 }
