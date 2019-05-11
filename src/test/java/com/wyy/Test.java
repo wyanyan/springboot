@@ -14,6 +14,8 @@ public class Test {
          System.out.println("test");
         System.out.println(reflectClass.getSuperclass());
 }
-public void test(){
-system.out.print("ssssss");}
+    public void test(){
+        System.out.print("tst");
+    }
+
 }
