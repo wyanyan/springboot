@@ -30,4 +30,7 @@ public class ReflectfTest {
     public void setNum1(Long num1) {
         this.num1 = num1;
     }
+    public void test(){
+        System.out.print("test");
+    }
 }
